@@ -1,2 +1,2 @@
 # PHP-Tutorial
-My first TEst php project
+Run The DataBase script in the 'DATABASE' Folder
